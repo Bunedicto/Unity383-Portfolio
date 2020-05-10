@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="20200330_130022-min" size="0.100000 0.075000" />
+    <ImageTarget name="download2" size="1.000000 0.671533" />
+    <ImageTarget name="M8-2-_1_" size="1.000000 0.801363" />
+    <ImageTarget name="images" size="1.000000 0.382920" />
+    <ImageTarget name="2" size="1.000000 0.749014" />
+    <ImageTarget name="download" size="0.100000 0.060554" />
+  </Tracking>
+</QCARConfig>
